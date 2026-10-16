@@ -419,5 +419,11 @@
       "isTitle": false
     }
   ],
-  "voices": {}
+  "voices": {
+    "en-HK-YanNeural": {
+      "downloaded": true,
+      "count": 69,
+      "updatedAt": "2026-10-16T13:50:25.403Z"
+    }
+  }
 }
