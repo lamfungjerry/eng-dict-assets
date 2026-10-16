@@ -5,7 +5,8 @@
     "createdAt": "2026-10-16T14:46:28.002Z",
     "chunkCount": 69,
     "availableVoices": [
-      "en-HK-YanNeural"
+      "en-HK-YanNeural",
+      "en-US-Chirp3-HD-Fenrir"
     ],
     "selectedVoice": "en-HK-YanNeural"
   }
