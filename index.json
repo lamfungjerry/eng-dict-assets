@@ -4,7 +4,9 @@
     "folderName": "White-water_kayaking",
     "createdAt": "2026-10-16T14:46:28.002Z",
     "chunkCount": 69,
-    "availableVoices": [],
-    "selectedVoice": ""
+    "availableVoices": [
+      "en-HK-YanNeural"
+    ],
+    "selectedVoice": "en-HK-YanNeural"
   }
 ]
