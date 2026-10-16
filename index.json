@@ -6,7 +6,8 @@
     "chunkCount": 69,
     "availableVoices": [
       "en-HK-YanNeural",
-      "en-US-Chirp3-HD-Fenrir"
+      "en-US-Chirp3-HD-Fenrir",
+      "en-HK-SamNeural"
     ]
   }
 ]
