@@ -1,0 +1,416 @@
+{
+  "title": "White-water kayaking",
+  "folderName": "White-water_kayaking",
+  "createdAt": "2026-10-17T03:02:16.166Z",
+  "chunkCount": 58,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "White-water kayaking",
+      "spokenText": "White-water kayaking",
+      "pauseSeconds": 5,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "text": "Have you ever wondered",
+      "spokenText": "Have you ever wondered",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "text": "what it's like",
+      "spokenText": "what it's like",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "text": "to travel in a kayak",
+      "spokenText": "to travel in a kayak",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "text": "along a fast river,",
+      "spokenText": "along a fast river comma",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "text": "over rocks",
+      "spokenText": "over rocks",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "text": "and even down waterfalls?",
+      "spokenText": "and even down waterfalls question mark",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "text": "That's what white-water kayaking",
+      "spokenText": "That's what white-water kayaking",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "text": "is all about!",
+      "spokenText": "is all about exclamation mark",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "text": "It's a fast, fun",
+      "spokenText": "It's a fast comma fun",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "text": "and challenging sport!",
+      "spokenText": "and challenging sport exclamation mark",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "text": "When water flows fast",
+      "spokenText": "When water flows fast",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "text": "over rocks in the riverbed,",
+      "spokenText": "over rocks in the riverbed comma",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "text": "or it drops steeply",
+      "spokenText": "or it drops steeply",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "text": "(like over a waterfall),",
+      "spokenText": "open bracket like over a waterfall close bracket comma",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "text": "air bubbles are formed",
+      "spokenText": "air bubbles are formed",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "text": "and they make the water look white.",
+      "spokenText": "and they make the water look white full stop",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "text": "White-water kayaks are specially designed",
+      "spokenText": "White-water kayaks are specially designed",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "text": "to move through white water",
+      "spokenText": "to move through white water",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "text": "and to turn easily.",
+      "spokenText": "and to turn easily full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "text": "Trip Jennings is a",
+      "spokenText": "Trip Jennings is a",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "text": "National Geographic Adventurer",
+      "spokenText": "National Geographic Adventurer",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "text": "and an extreme white-water kayaker",
+      "spokenText": "and an extreme white-water kayaker",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "text": "who made a journey",
+      "spokenText": "who made a journey",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "text": "down the Pandi River",
+      "spokenText": "down the Pandi River",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "text": "in Papua New Guinea.",
+      "spokenText": "in Papua New Guinea full stop",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "text": "He wanted to make a film",
+      "spokenText": "He wanted to make a film",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "text": "to show people",
+      "spokenText": "to show people",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "text": "what a beautiful place it was.",
+      "spokenText": "what a beautiful place it was full stop",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "text": "Jennings and his team of kayakers",
+      "spokenText": "Jennings and his team of kayakers",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "text": "started underground, in a cave",
+      "spokenText": "started underground comma in a cave",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "text": "and then continued down waterfalls,",
+      "spokenText": "and then continued down waterfalls comma",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "text": "some small and some big,",
+      "spokenText": "some small and some big comma",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "text": "until they arrived",
+      "spokenText": "until they arrived",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "text": "at a very steep drop.",
+      "spokenText": "at a very steep drop full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "text": "The photographer had a frightening experience",
+      "spokenText": "The photographer had a frightening experience",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "text": "when he got trapped",
+      "spokenText": "when he got trapped",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "text": "behind the waterfall.",
+      "spokenText": "behind the waterfall full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "text": "Luckily, Trip threw him a rope",
+      "spokenText": "Luckily comma Trip threw him a rope",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "text": "and he was able to free himself.",
+      "spokenText": "and he was able to free himself full stop",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "text": "White-water kayaking is an exciting sport,",
+      "spokenText": "White-water kayaking is an exciting sport comma",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "text": "but it can also be dangerous.",
+      "spokenText": "but it can also be dangerous full stop",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "text": "You have to concentrate",
+      "spokenText": "You have to concentrate",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "text": "and think quickly.",
+      "spokenText": "and think quickly full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "text": "It's amazing how fast water can flow!",
+      "spokenText": "It's amazing how fast water can flow exclamation mark",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "text": "Tips for white-water kayaking:",
+      "spokenText": "Tips for white-water kayaking colon",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "text": "Wear a wetsuit",
+      "spokenText": "Wear a wetsuit",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "text": "to keep yourself warm.",
+      "spokenText": "to keep yourself warm full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "text": "Wear a helmet",
+      "spokenText": "Wear a helmet",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "text": "to keep yourself safe.",
+      "spokenText": "to keep yourself safe full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "text": "Prepare yourself –",
+      "spokenText": "Prepare yourself dash",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "text": "you should learn how to paddle",
+      "spokenText": "you should learn how to paddle",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "text": "and how to roll over in the kayak",
+      "spokenText": "and how to roll over in the kayak",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "text": "without falling into the water.",
+      "spokenText": "without falling into the water full stop",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "text": "Practise somewhere easy",
+      "spokenText": "Practise somewhere easy",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "text": "before you try kayaking",
+      "spokenText": "before you try kayaking",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "text": "on fast-flowing water.",
+      "spokenText": "on fast-flowing water full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "text": "Relax and go with the flow!",
+      "spokenText": "Relax and go with the flow exclamation mark",
+      "pauseSeconds": 5,
+      "isTitle": false
+    }
+  ],
+  "voices": {},
+  "selectedVoice": ""
+}
