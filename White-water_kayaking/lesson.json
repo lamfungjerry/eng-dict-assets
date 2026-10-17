@@ -411,6 +411,12 @@
       "isTitle": false
     }
   ],
-  "voices": {},
-  "selectedVoice": ""
+  "voices": {
+    "en-US-Chirp3-HD-Fenrir": {
+      "downloaded": true,
+      "count": 58,
+      "updatedAt": "2026-10-17T03:18:04.831Z"
+    }
+  },
+  "selectedVoice": "en-US-Chirp3-HD-Fenrir"
 }
